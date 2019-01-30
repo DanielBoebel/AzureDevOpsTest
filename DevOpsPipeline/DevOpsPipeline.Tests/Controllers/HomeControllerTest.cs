@@ -56,7 +56,7 @@ namespace DevOpsPipeline.Tests.Controllers
         {
             HomeController controller = new HomeController();
             int result = controller.onePlusTwo(1, 2);
-            Assert.Equals(result, 3);
+            Assert.AreEqual(3, result);
         }
     }
 }
