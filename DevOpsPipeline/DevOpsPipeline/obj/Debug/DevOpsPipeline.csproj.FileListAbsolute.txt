@@ -73,7 +73,6 @@ C:\Users\Bruger\Desktop\Projects\AzureDevOpsTest\DevOpsPipeline\DevOpsPipeline\b
 C:\Users\Bruger\Desktop\Projects\AzureDevOpsTest\DevOpsPipeline\DevOpsPipeline\bin\System.Diagnostics.DiagnosticSource.xml
 C:\Users\Bruger\Desktop\Projects\AzureDevOpsTest\DevOpsPipeline\DevOpsPipeline\bin\Microsoft.AspNet.TelemetryCorrelation.xml
 C:\Users\Bruger\Desktop\Projects\AzureDevOpsTest\DevOpsPipeline\DevOpsPipeline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\Bruger\Desktop\Projects\AzureDevOpsTest\DevOpsPipeline\DevOpsPipeline\obj\Debug\DevOpsPipeline.csprojAssemblyReference.cache
 C:\Users\Bruger\Desktop\Projects\AzureDevOpsTest\DevOpsPipeline\DevOpsPipeline\obj\Debug\DevOpsPipeline.csproj.CoreCompileInputs.cache
 C:\Users\Bruger\Desktop\Projects\AzureDevOpsTest\DevOpsPipeline\DevOpsPipeline\obj\Debug\DevOpsPipeline.csproj.CopyComplete
 C:\Users\Bruger\Desktop\Projects\AzureDevOpsTest\DevOpsPipeline\DevOpsPipeline\obj\Debug\DevOpsPipeline.dll
