@@ -34,7 +34,8 @@ steps:
     configuration: '$(buildConfiguration)'
 
 - task: PublishBuildArtifacts@1
+  displayName: 'Publish Artifact: drop'
   inputs:
-	displayName: 'Publish Artifact: drop'
-	PathtoPublish: '$(build.artifactstagingdirectory)'
-	condition: succeededOrFailed()
+  PathtoPublish: '$(build.artifactstagingdirectory)'
+  condition: true
+
